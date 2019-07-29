@@ -1,3 +1,39 @@
+## Doku Hosted Payment Options Avalaible on Prestashop Plugin: ##
+
+1. Credit Card
+   - Sale
+   - Tokenization
+   - Installment: On & Off Installment
+   
+2. Doku Wallet
+
+3. Bank Transfer:
+   - BCA 
+   - CIMB Niaga
+   - BRI
+   - Permata
+   - Danamon
+   - BNI
+   - Sinarmas
+   - Mandiri
+   - BTN
+   - Maybank
+   - QNB
+   
+4. Internet Banking:
+   - BRI pay
+   - BCA Klikpay
+   - CIMB Clicks
+   - IB Muamalat
+   - IB Permata
+   
+5. Convenience Store: 
+   - Indomaret
+   - Alfamart
+   
+6. Cardless Credit:
+   - Kredivo
+   
 ## Installation ##
 Minimum Requirements: 
 1. Prestashop v1.7.0 or greater
