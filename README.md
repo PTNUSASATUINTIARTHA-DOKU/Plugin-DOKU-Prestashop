@@ -4,7 +4,7 @@ Minimum Requirements:
 2. PHP version v7.1 or greater
 3. MySQL version v5.6 or greater
 
-## Simple Installation ##
+## Installation ##
 1. Login to your Prestashop admin panel.
 2. Go to Plugins menu, click add new and search "Doku".
 3. Install and follow the instructions.
