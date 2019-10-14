@@ -1,3 +1,13 @@
+PrestaShop is a free shopping cart platform that helps small to large businesses build and run a successful online store. PrestaShop is easy to use, but has multiple features, tools and settings such as Responsive design,variety of languages, Multi-store, and easy to store management including products, digital products, inventory, shipping, payment, customers, prices.
+
+In order to facilitate the development of e-commerce through Prestashop, Doku as the largest payment enabler in Indonesia, provides a payment module that can be used easily and quickly (plug & play) on the Prestashop platform.
+
+The features available in the Magento plugin are:
+
+1. Online payment in various payment channels in almost all banks in Indonesia.
+2. Fraud detection.
+3. Email confirmation.
+
 ## Doku Hosted Payment Options Avalaible on Prestashop Plugin: ##
 
 1. Credit Card
