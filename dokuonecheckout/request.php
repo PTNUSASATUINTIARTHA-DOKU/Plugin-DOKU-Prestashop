@@ -23,10 +23,10 @@ switch ($task)
 					 die;
 			 }
 											
-			 if (substr($dokuonecheckout->getipaddress(),0,strlen($dokuonecheckout->ip_range)) !== $dokuonecheckout->ip_range)
-			 {
-					 echo "Stop : IP Not Allowed : ".$dokuonecheckout->getipaddress();
-			 }
+			 // if (substr($dokuonecheckout->getipaddress(),0,strlen($dokuonecheckout->ip_range)) !== $dokuonecheckout->ip_range)
+			 // {
+				// 	 echo "Stop : IP Not Allowed : ".$dokuonecheckout->getipaddress();
+			 // }
 			 else
 			 {	    
 					 $trx = array();														
